@@ -1,1 +1,3 @@
-# SDPH_git
+# SDPH: Signed Distance Persistent Homology
+
+Repository in construction...
